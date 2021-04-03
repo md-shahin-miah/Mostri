@@ -42,7 +42,18 @@ class _LoginWidgetState extends StateMVC<LoginWidget> {
               child: Container(
                 width: config.App(context).appWidth(100),
                 height: config.App(context).appHeight(37),
-                decoration: BoxDecoration(color: Theme.of(context).accentColor),
+                decoration: BoxDecoration(
+                  gradient: LinearGradient(
+                    begin: Alignment.topLeft,
+                    end:
+                    Alignment(0.8, 0.0), // 10% of the width, so there are ten blinds.
+                    colors: <Color>[
+                      Color(0xffF8E4CC),
+                      Color(0xffC8DDDF)
+                    ], // red to yellow // repeats the gradient over the canvas
+                  ),
+
+                ),
               ),
             ),
             Positioned(
