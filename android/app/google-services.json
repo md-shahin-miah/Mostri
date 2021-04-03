@@ -1,0 +1,127 @@
+{
+  "project_info": {
+    "project_number": "594364824715",
+    "firebase_url": "https://remindiary.firebaseio.com",
+    "project_id": "remindiary",
+    "storage_bucket": "remindiary.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:594364824715:android:ee446fdb4bc8fea5c0288e",
+        "android_client_info": {
+          "package_name": "com.example.towerfly"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "594364824715-1jgfs6ala8n7la08tp78mu78v74j0g4n.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBv1qd0nymX4CD_mPAbf16CSzWYbb5MH9w"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "594364824715-1jgfs6ala8n7la08tp78mu78v74j0g4n.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    },
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:594364824715:android:09fe2496348fd278c0288e",
+        "android_client_info": {
+          "package_name": "com.moshtriapp.moshtri"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "594364824715-1jgfs6ala8n7la08tp78mu78v74j0g4n.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBv1qd0nymX4CD_mPAbf16CSzWYbb5MH9w"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "594364824715-1jgfs6ala8n7la08tp78mu78v74j0g4n.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    },
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:594364824715:android:d123fa9b22ab970ac0288e",
+        "android_client_info": {
+          "package_name": "com.rshstdaboss.remindaiary"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "594364824715-1jgfs6ala8n7la08tp78mu78v74j0g4n.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBv1qd0nymX4CD_mPAbf16CSzWYbb5MH9w"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "594364824715-1jgfs6ala8n7la08tp78mu78v74j0g4n.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    },
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:594364824715:android:40156c175a98a6c7c0288e",
+        "android_client_info": {
+          "package_name": "com.towerflyapp.towerfly"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "594364824715-1jgfs6ala8n7la08tp78mu78v74j0g4n.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBv1qd0nymX4CD_mPAbf16CSzWYbb5MH9w"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "594364824715-1jgfs6ala8n7la08tp78mu78v74j0g4n.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
